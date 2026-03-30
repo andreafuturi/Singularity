@@ -1,6 +1,6 @@
 {
   "name": "singularity",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": false,
   "type": "module",
   "scripts": {
@@ -19,7 +19,7 @@
     "test": "deno test --allow-net --allow-env --allow-read --allow-write --allow-run"
   },
   "devDependencies": {
-    "@preact/preset-vite": "^2.9.2",
-    "vite": "^6.0.2"
+    "@preact/preset-vite": "^2.10.5",
+    "vite": "^8.0.3"
   }
 }
